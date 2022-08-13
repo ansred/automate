@@ -1,6 +1,6 @@
 # UDP Server version 2
  
-  $port = 2025
+  $port = 12345
   $endpoint = New-Object System.Net.IPEndPoint ([IPAddress]::Any, $port)
   Try {
       while($true) {
