@@ -9,7 +9,7 @@ Get-NetIPAddress | Format-Table
 
 
 #3# https://www.computerhope.com/issues/ch001315.htm 
-dir "C:\Users\n8n\PROJECTS\PowerShell\test-random-ps1-commands" *.zip ; write " In this directory C:\Users\n8n\PROJECTS\PowerShell\test-random-ps1-commands"
+#dir "C:\Users\n8n\PROJECTS\PowerShell\test-random-ps1-commands" *.zip ; write " In this directory C:\Users\n8n\PROJECTS\PowerShell\test-random-ps1-commands"
 
 #4# info
 whoami ; hostname
